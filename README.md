@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my master's degree on AI for digital pathology.
+- 😄 Pronouns: she/her
+
+![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannaparanhos&theme=omni&show_icons=true)
